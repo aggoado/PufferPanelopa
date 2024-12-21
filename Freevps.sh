@@ -1,6 +1,6 @@
 #!/bin/sh
 
-ROOTFS_DIR=/home/runner
+ROOTFS_DIR=/home/username
 export PATH=$PATH:~/.local/usr/bin
 
 max_retries=50
